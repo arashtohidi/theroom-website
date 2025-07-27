@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 // src/app/blog/page.tsx
 import { fetchArticles } from "@/lib/strapi";
 

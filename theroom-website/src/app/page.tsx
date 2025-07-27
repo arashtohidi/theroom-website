@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { fetchArticles } from "@/lib/strapi";
 
 export default async function BlogPage() {
